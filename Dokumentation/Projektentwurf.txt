@@ -37,3 +37,69 @@ Eine Schaltfläche zur Formelssammlung
 -Formelsammlung
 -Textfeld für Lösung
 -Wenn Anzahl Versuche überschritten, wird die Aufgabe als falsch beantwortet eingetragen und die Lösung gezeigt.
+
+===================================
+=== Feedback Alpers, 2016-10-14 ===
+===================================
+
+=== 1.) Formales
+
+1.1.) Leider haben Sie direkt mit dem Entwurf der Ansichten begonnen. Das ist genau der falsche Weg. Die Entwicklung der Ansichten ist der letzte Schritt vor der Programmierung. Löschen Sie deshalb alles, was mit "Startseite", "Hauptübersicht", "Menü", "Schaltfläche" usw. usf. zu tun hat. Es geht im Entwurf darum, die Grundlage für das Projekt zu legen. Daraus leiten Sie dann im zweiten Schritt die nötigen strukturellen Elemente ab und fassen diese anschließend zu Gruppen zusammen, die Sie dann auch schon programmieren können. Erst danach kommen die Ansichten an die Reihe.
+
+=== 2.) Inhaltliches
+
+2.1.) Wie schon in Ihren Notizen zur Recherche geschrieben ist das auswendig lernen einzelner Formeln nur ein ganz kleiner Teil dessen, was Studierende im Bereich Elektrotechnik bei Studienbeginn beherrschen bzw. kurzfristig wiederholen müssen.
+
+2.2.) Aus der Anmerkung unter Formales ergibt sich leider auch, dass Ihr Entwurf für die weitere Arbeit leider ungeeignet ist, weil Sie genau das, was hier aufgeführt werden müsste nicht aufführen. Hier ein Beispiel:
+
+==Aufgaben Erstellen==
+
+-Name
+-Thema
+-Schwierigkeit 
+-Aufgabe
+-Benötigte Formeln
+	-neue Formeln werden automatisch der Formelsammlung hinzugefügt
+-Lösung
+-Anzahl der Versuche
+-Hilfe(Formeln)
+
+==Aufgaben Bearbeiten==
+
+-Zeigt Name, Thema, Schwierigkeit und Aufgabe
+-Textfeld für Notizen
+-Formelsammlung
+-Textfeld für Lösung
+-Wenn Anzahl Versuche überschritten, wird die Aufgabe als falsch beantwortet eingetragen und die Lösung gezeigt.
+
+Wenn das zusammengefasst wird, ergeben sich die folgenden Punkte für den Entwurf:
+
+- Es gibt Aufgaben, bei denen Nutzer Formeln ... müssen.
+[Oben fehlt nämlich gerade die Angabe, was Nutzer mit den Formeln tun sollen.]
+- Aufgaben können durch Administratoren erzeugt, verändert oder gelöscht werden.
+- Es gibt ein Feedback zur eingegebenen Lösung.
+- Es gibt eine Formelsammlung, die durch Eingaben ... erweitert werden kann.
+[Oben fehlt gerade die Angabe davon, wer diese Erweiterung durchführen kann.]
+
+=== 3.) Verteilte Anwendung
+
+Bislang ist lediglich erkennbar, dass andere Nutzer Aufgaben erstellen können. Überlegen Sie sich noch mehr, insbesondere solche Aspekte, bei denen mehrere Nutzer gleichzeitig gemeinsam über die Anwendung arbeiten.
+
+=== 4.) Adaption
+
+Bislang ist leider keine Adaption des individuellen Nutzerverhaltens erkennbar.
+
+=== 5.) Zusammenfassung
+
+Bislang haben Sie leider nur sehr wenige Möglichkeiten entworfen und vermischen den Entwurf mit der Struktur sowie Design-Aspekten. Dadurch haben Sie relativ viel Zeit investiert, die an dieser Stelle noch nicht gut investiert ist. Sie haben aber zumindest knappe klar abgegrenzte Einträge erstellt.
+
+=================================================
+=== Wertung 2: Projektentwurf: gesamt: -1 / 10 ===
+=================================================
+- Knappe aber klare Beschreibung 0 bis 5 Pk.: 2
+- Pro Strategie des Computers, die die individuellen Züge des Spielers adaptiert 0 bis 5 Pk.: 0
+=== (Malus beim Projektentwurf) ===
+- Werbeslogans u.ä. -5 bis 0 Pk.: 0
+- Designaspekte -5 bis 0 Pk.: -3
+- Voraussetzung bekannten Wissens -5 bis 0 Pk.: 0
+(Dies ist keine abschließende Wertung.)

@@ -141,11 +141,14 @@ w = 2pi/T			[w] = 2pi/s = 1/s
 
 T = 2pi/w			[T] = 2hpi/w
 
+===================================
+=== Feedback Alpers, 2016-10-14 ===
+===================================
 
+Sie haben hier ausschließlich Formeln recherchiert. Was Sie dagegen als Grundlage für den Projektentwurf brauche ist das Wissen, welche Aufgaben Studienanfänger im Bereich der Elektrotechnik beherrschen müssen. Mit dieser Aufstellung haben Sie also nur eine eine Vorbereitung für einen Aufgabentyp erstellt. Somit hilft Ihnen dieses Ergebnis kaum beim Entwurf des Projekts.
 
+Sie haben jetzt drei Möglichkeiten, um die Recherche sinnvoll durchzuführen:
 
-
-
- 
-
-
+1.) Nehmen Sie sich Ihren Schulunterlagen aus der Oberstufe bzw. ein Lehrbuch der Physik aus der Oberstufe.
+2.) Fragen Sie Studierende, die die Veranstaltung Elektrotechnik bestanden haben. (Ggf. hilft Ihnen der FSR weiter, denn dort dürfte der eine oder die andere sitzen, die das bereits geschafft haben.)
+3.) Fragen Sie einen der Dozenten/Laborleiter im Bereich Elektrotechnik.
