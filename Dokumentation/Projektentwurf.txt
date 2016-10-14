@@ -1,5 +1,5 @@
 =============================================================
-=== Projektentwurf, v_00001, [Datum im Format 2016-10-06] ===
+=== Projektentwurf, v_00001, [Datum im Format 2016-10-14] ===
 =============================================================
 
 ==Startbildschirm==
@@ -7,15 +7,33 @@
 Das Grundprinzip der Anwengung ist eine Lernsoftware.
 Die Anwendung besteht aus einem Startmenü in dem man sich anmelden oder registrieren kann. 
 Die Registrierung findet auf einer neuen Seite statt.
-Meldet man sich an, wird man zu einer Haupt-Übersicht weitergeleitet.
+Meldet man sich an, wird man zu einer Hauptübersicht weitergeleitet.
 
-==Haupt-Übersicht==
+==Hauptübersicht==
 
 Zeigt neu erstellte Aufgaben anderer Nutzer.
 Vorhandene Aufgaben sortiert nach Schwierigkeit.
-Die am meisten falsch beantwortete Aufgabe.
-Eine Schaltfläche zum erstellen von Aufgaben.
+Die am meisten falsch beantwortete Aufgabentyp(die Andwendung sammelt vorherige Daten).
+Eine Schaltfläche zum Erstellen von Aufgaben.
 Eine Schaltfläche für Account Informationen.
+Eine Schaltfläche zur Formelssammlung
 
-==Aufgaben==
+==Aufgaben Erstellen==
 
+-Name
+-Thema
+-Schwierigkeit 
+-Aufgabe
+-Benötigte Formeln
+	-neue Formeln werden automatisch der Formelsammlung hinzugefügt
+-Lösung
+-Anzahl der Versuche
+-Hilfe(Formeln)
+
+==Aufgaben Bearbeiten==
+
+-Zeigt Name, Thema, Schwierigkeit und Aufgabe
+-Textfeld für Notizen
+-Formelsammlung
+-Textfeld für Lösung
+-Wenn Anzahl Versuche überschritten, wird die Aufgabe als falsch beantwortet eingetragen und die Lösung gezeigt.

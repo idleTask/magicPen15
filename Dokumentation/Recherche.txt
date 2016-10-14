@@ -1,0 +1,151 @@
+========================================================
+=== Recherche, v_00001, [Datum im Format 2016-10-14] ===
+========================================================
+
+Gleichstrom, Gleichspannung(DC)
+-------------------------------
+	
+Formelzeichen		Einheiten
+_____________		_________
+
+R = Widerstand		O = Ohm
+I = Stromstärke		A = Ampère
+U = Spannung		V = Volt
+W = Arbeit		Ws Wattsekunde J = Joule
+Q = Ladung		C = Coulomb
+t = Zeit		s = Sekunden
+F = Kraft		N = Newton
+s = Weg 		m = Meter
+P = Leistung		W = Watt
+n = Wirkungsgrad
+S = Stromdichte		A/mm²
+A = Leiterquerschnitt	mm²
+G = Leitwert		S = Siemens
+
+
+Ohmsches Gesetz: 
+
+R = U/I				[R] = V/A = O
+
+I = U/R				[I] = V/O = A
+
+U = I*R				[U] = A * O = V
+
+Spannung:
+
+U = W/Q = (F*s)/(I*t)		[U] = Nm/C = VAs/ As = V
+
+Stromstärke und elekt. Ladung:
+
+I = Q/t 			[I] = C/s = As/s = A
+
+Q = I*t				[Q] = A*s = C
+
+Leistung:
+
+P = U*I 			[P] = V*A = W
+
+P = W/t				[P] = Ws/s = W
+
+P = U²/R
+
+P = I²*R
+
+Arbeit:
+
+W = U*Q = U*I*t			[W] = V*As = V*A*s = Ws
+
+W = P*t = (U²*t)/R = I²*R*t 	[W] = W*s = (V²*s) /O = A²*O*s = Ws
+
+Wirkungsgrad:
+
+P2 = zugegebene Leistung
+P1 = abgegebene Leistung
+Pv = Verlustleistung
+
+n = P1/P2			[n] = W/W
+
+n = n1*n2*n3*...*nn
+
+Pv = P2 - p1			[Pv] = W-W = W
+
+P = P2 = P1 +Pv
+
+Stromdichte:
+
+S = J = I/A			A/mm²
+
+Leitwert:
+
+G = 1/R				[G] = 1/O = S
+
+
+
+Wechselstrom, Wechselspannung (AC)
+----------------------------------
+
+Widerstand im Wechselstromkreis:
+
+Z = Scheinwiderstand		O = Ohm
+R = Widerstand
+I = Stromstärke			A = Ampère
+U = Spannung			V = Volt
+
+R = Z = U/I			[Z] = V / A = O
+
+I = U/Z				[I] = V/O = A
+
+U = I*Z				[U] = A*O = V
+
+Leistung im Wechselstromkreis:
+
+S = Scheinleistung 		VA = Voltampere
+P = Wirkleistung		W = Watt
+Q = Blindleistung 		var = Voltampere reaktiv
+U = Spannung			V = Volt
+I = Stromstärke			A = Ampère
+
+S = U*I				[S] = V*A = VA
+
+P = S * cos(phi) = U*I*cos(phi)	[P] = V*A*(W/VA) = W
+
+Q = S * sin(phi) = U*I*sin(phi) [Q] = V*A*(var/VA) = var
+
+Frequenz:
+
+f = Frequenz			Hz = Hertz
+T = Periode			s = Sekunde
+
+f = 1/T				[f] = 1/s = Hz
+
+T = 1/f				[T] = 1/Hz = s
+
+Drezahl:
+
+n = Drezahl pro Minute		1/min
+f = Frequenz			Hz
+w = Kreisfrequenz		1/s
+p = Anzahl der Polpaare
+
+n = (60*f)/p			[n] = (60*Hz)/AnzahlPolpaare
+
+n = w/2pi			[n] = (1/min)/2pi
+
+Kreisfrequenz:
+
+w = 2pi*f			[w] = 2pi*Hz = 1/s
+
+f = w/2pi			[f] = (1/s)/2pi = Hz
+
+w = 2pi/T			[w] = 2pi/s = 1/s
+
+T = 2pi/w			[T] = 2hpi/w
+
+
+
+
+
+
+ 
+
+
