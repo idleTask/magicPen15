@@ -5,7 +5,7 @@
 Das Grundprinzip der Anwendung ist eine Lernsoftware.
 Jeder Nutzer hat einen eigenen Account mit dem man sich anmeldet.
 
-Es gibt eine Sammlung von grundlägenden Formeln.
+Es gibt eine Sammlung von grundlegenden Formeln.
 Jeder Benutzer kann diese Formelsammlung individuell für sich bearbeiten.
 
 Jeder Nutzer kann Aufgaben erst erstellen, wenn er eine gewissen Anzahl von Aufgaben richtig gelöst hat. 

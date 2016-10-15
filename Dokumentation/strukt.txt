@@ -1,0 +1,36 @@
+===========================================
+=== Strukturelle Elemente, [2016-10-15] ===
+===========================================
+
+== 01 Schaltflächen ==
+01_01 	 
+01_02	
+
+== 02 input/text ==
+02_01	type=text / Eingabe des Nutzernamens
+02_02	type=text / Eingabe des Namens einer Aufgabe
+02_03	type=text / Eingabe der Aufgabe
+02_04	type=text / Eingabe Lösung der Aufgabe
+02_05	type=text / Eingabe Hilfe zur Aufgabe
+
+== 03 input/password ==
+03_01	type=password / Eingabe des Passworts
+
+== 04 input/submit ==
+04_01	type=submit / Absenden eines Formulars
+
+== 05 input/file ==
+05_01	type=file / Nutzer kann Formelsammlung hochladen
+
+== 06 input/checkbox ==
+06_01	type=checkbox / Auswahl der Themen beim Erstellen von Aufgaben
+
+== 07 input/radio ==
+07_01	type=radio / Auswahl der Schwierigkeit beim Erstellen von Aufgaben
+07_02	type=radio / Bewertung der Aufgabe
+
+== 30 Hyperlink ==
+30_01	Erstellen / Weiterleitung zum Erstellen von Aufgaben
+30_02	Bearbeiten / Weiterleitung zum Bearbeiten von Aufgaben
+30_03	downlaod / Download der individuellen Formelsammlung
+30_04	download / Download der grundlegenden Formelsammlung
