@@ -1,6 +1,35 @@
-=============================================================
-=== Projektentwurf, v_00001, [Datum im Format 2016-10-14] ===
-=============================================================
+=============================================
+=== Projektentwurf, v_00002, [2016-10-15] ===
+=============================================
+
+Das Grundprinzip der Anwendung ist eine Lernsoftware.
+Jeder Nutzer hat einen eigenen Account mit dem man sich anmeldet.
+
+Es gibt eine Sammlung von grundlägenden Formeln.
+Jeder Benutzer kann diese Formelsammlung individuell für sich bearbeiten.
+
+Jeder Nutzer kann Aufgaben erst erstellen, wenn er eine gewissen Anzahl von Aufgaben richtig gelöst hat. 
+Jeder kann Aufgaben bearbeiten.
+
+Die Aufgaben werden aufgelistet und können sortiert und gefiltert werden.
+
+Beim Bearbeiten der Aufgaben müssen Nutzer verstehen, welche Formeln sie zum Lösen benötigen.
+Nach dem Eintragen der Lösung bekommt der Nutzer ein Feedback und kann die Aufgabe bewerten.
+
+Bei vielen schlechten Bewertung wird die Aufgabe automatisch gelöscht.
+Bei vielen guten Bewertungen bekommt die Aufgabe mehr Präsenz in der Anwendung.
+
+Es wird angezeigt welche anderen Benutzer die selbe Aufgabe zur Zeit bearbeiten.
+Es gibt ein Chat-System, dass Gesprächsrunden mit einer beliebigen Anzahl von Teilnehmern in Channels ermöglicht.
+Neue Channels können jederzeit von jedem Teilnehmer eröffnet werden.
+Man kann gleichzeitig an mehreren Channels teilnehmen.
+
+
+
+
+=============================================
+=== Projektentwurf, v_00001, [2016-10-14] ===
+=============================================
 
 ==Startbildschirm==
 
