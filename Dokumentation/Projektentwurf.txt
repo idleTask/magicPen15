@@ -24,6 +24,7 @@ Es gibt ein Chat-System, dass Gesprächsrunden mit einer beliebigen Anzahl von Te
 Neue Channels können jederzeit von jedem Teilnehmer eröffnet werden.
 Man kann gleichzeitig an mehreren Channels teilnehmen.
 
+Die Anwendung analysiert welche Aufgaben die einzelnen Nutzer in Abhängigkeit der Schwierigkeit der Aufgabe falsch oder richtig beantworten. Somit weiß der Computer für jeden einzelnen Nutzer wie gut dieser Elektrotechnik beherscht und kann passende Aufgabentypen oder Hilfen anzeigen.
 
 
 
