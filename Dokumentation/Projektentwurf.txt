@@ -133,3 +133,59 @@ Bislang haben Sie leider nur sehr wenige Möglichkeiten entworfen und vermischen 
 - Designaspekte -5 bis 0 Pk.: -3
 - Voraussetzung bekannten Wissens -5 bis 0 Pk.: 0
 (Dies ist keine abschließende Wertung.)
+
+===================================
+=== Feedback Alpers, 2016-10-28 ===
+===================================
+
+=== 1.) Formales
+
+== 1.1.) Inhalt und Ablauf bitte trennen
+
+Bitte trennen Sie die Anteile des Entwurfs, in denen es um inhaltliches geht und diejenigen, bei denen es um funktionales bzw. Abläufe geht wie in der aktuellen Aufgabenstellung notiert.
+
+== 1.2.) Knappere Stichpunkte
+
+Momentan formulieren Sie noch zu umfangreich. Das hier soll kein Marketing- oder Erklärtext werden, sondern ein Dokument, anhand dessen ein Überblick über den aktuellen Stand des Projekts von beliebigen Entwlickern schnell erfasst werden kann.
+
+Bsp.:
+
+Jeder Nutzer hat einen eigenen Account mit dem man sich anmeldet.
+
+Besser:
+
+- Log-In
+- Registrierung
+
+=== 2.) Inhaltliches
+
+== 2.1.) Keine Aufgabentypen ausgearbeitet.
+
+Bislang haben Sie im Kern nur die Aussage, dass es Aufgaben und eine Formelsammlung geben wird. Deshalb nochmal der Hinweis: In der Elektrotechnik geht es um mehr als um das Auswendiglernen von Formeln. Also muss auch Ihre Anwendung mehr Arten von Aufgaben anbieten als solche, bei denen Formeln abgefragt werden. In den letzten vier Wochen war es Ihre Aufgabe, sich zu überlegen, welche Arten von Aufgaben das sind und das als Teil des Entwurfs zu notieren. Wenn Sie das nicht zeitnah erledigen, dann haben Sie effektiv so gut wie keinen Inhalt in Ihrer Anwendung.
+
+== 2.2.) Bitte inhaltliches und Abläufe klar trennen.
+
+Hier ein Bsp.:
+
+Es gibt eine Sammlung von grundlegenden Formeln.
+Jeder Benutzer kann diese Formelsammlung individuell für sich bearbeiten.
+
+Besser:
+
+// Inhalt
+- Formelsammlung
+
+// Ablauf
+- Formelsammlung kann individuelle geändert werden.
+
+=== 3.) Verteilte Anwendung
+
+== 3.1.) Noch kaum Umsetzung bezüglich der eigentlichen Projektidee
+
+Genauso wie Sie sich nicht mit der Frage beschäftigt haben, was es (neben dem Auswendiglernen von Formeln) noch an Aufgaben gibt, haben Sie dementsprechend auch noch keine für diesen Aspekt relevanten Anteile im Sinne einer verteilten Anwendung erstellt. Sie haben aber zumindest einige allgemein sinnvollen Möglichkeiten für eine verteilte Anwendung ausformuliert. (Chat u.a.)
+
+=== 4.) Adaptive Anwendung
+
+== 4.1.) Ebenfalls erste Schritte in die richtige Richtung
+
+Sie haben an einem konkreten Beispiel ausgeführt, dass das System adaptiv sein soll. Aber bislang haben Sie noch nicht ausgeführt, wie das konkret stattfinden soll.

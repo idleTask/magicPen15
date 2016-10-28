@@ -34,3 +34,16 @@
 30_02	Bearbeiten / Weiterleitung zum Bearbeiten von Aufgaben
 30_03	downlaod / Download der individuellen Formelsammlung
 30_04	download / Download der grundlegenden Formelsammlung
+
+===================================
+=== Feedback Alpers, 2016-10-28 ===
+===================================
+
+Sieht soweit nach einem sinnvollen Anfang aus. Bitte zunächst die Hinweise im Entwurf beachten. (Zurzeit keine Wertung möglich, da im Entwurf nicht klar zwischen Inhalt und Abläufen getrennt ist.
+
+Einziges Manko:
+
+== 05 input/file ==
+05_01	type=file / Nutzer kann Formelsammlung hochladen
+
+Ist nicht nötig, da es um die Entwicklung einer verteilten Anwendung mit Datenbankanbindung geht: Dort können wir automatisch jede einzelne Eingabe aller Nutzer speichern und damit auch jeden Zwischenstand der Formelsammlung. Ein manuelles Speichern ist damit überflüssig. Denken Sie in diesem Zusammenhang auch daran, dass jedes Mal, wenn Nutzer ein Formular absenden, eine Schaltfläche betätigen oder anders mit der Anwendung interagieren, die Auswirkung dieser Interaktion auf dem Server durchgeführt wird.

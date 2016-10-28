@@ -174,3 +174,11 @@ Sie haben jetzt drei Möglichkeiten, um die Recherche sinnvoll durchzuführen:
 1.) Nehmen Sie sich Ihren Schulunterlagen aus der Oberstufe bzw. ein Lehrbuch der Physik aus der Oberstufe.
 2.) Fragen Sie Studierende, die die Veranstaltung Elektrotechnik bestanden haben. (Ggf. hilft Ihnen der FSR weiter, denn dort dürfte der eine oder die andere sitzen, die das bereits geschafft haben.)
 3.) Fragen Sie einen der Dozenten/Laborleiter im Bereich Elektrotechnik.
+
+===================================
+=== Feedback Alpers, 2016-10-28 ===
+===================================
+
+Leider haben Sie den Hinweis vom letzten Feedback missverstanden: Es ging mir um die Recherche unterschiedlicher Aufgabentypen. Im Gegensatz dazu haben Sie unterschiedliche Teilbereiche der Elektrotechnik recherchiert.
+
+Ein Aufgabentyp, der in all diesen Bereichen vorkommt ist das Auswendiglernen von Formeln bzw. das Berechnen von Lösungen mit Hilfe von Formeln. Aber tatsächlich ist das Auswendiglernen der unwichtigste Aufgabentyp in einem Studium im Bereich B.Sc. oder B.Eng. Sie müssen also prüfen, was für Arten von Aufgaben die Software anbieten sollte, um für Studierende eine Unterstützung zu sein.
