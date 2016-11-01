@@ -1,3 +1,37 @@
+============================================
+=== Projektentwurf, v_00003, [2016-11-1] ===
+============================================
+
+//Inhalt
+-Formelsammlung
+-eigener Account
+-aufgelistete Aufgaben
+-Daten von Anwendern
+	-richtig/falsch gelöste Aufgaben
+-vorgeschlagene Aufgaben aus Themenbereiche die oft falsch beantwortet wurden
+-Anzeige wer die Aufgaben zur selben Zeit bearbeitet
+-Chat
+
+//Ablauf
+-Log-in
+-Registrierung
+-Formelsammlung individuell bearbeiten
+-Aufgaben erstellen, wenn genug Aufgaben bereits richtig gelöst
+-Aufgaben lösen
+-Feedback nach lösen von Aufgaben erhalten
+-sortieren der Aufgaben
+
+
+Aufgabentypen:
+
+-Bestandteile zuordnen
+-Aussagen als wahr oder falsch makieren
+-Formelzeichen, Maßeinheiten angeben
+-Einheiten umrechnen (Vorsätze)
+-Größen brechnen 
+-Schaltungen deuten
+-ermitteln von Werten anhand Bilder
+
 =============================================
 === Projektentwurf, v_00002, [2016-10-15] ===
 =============================================
